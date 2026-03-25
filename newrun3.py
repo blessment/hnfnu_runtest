@@ -6,8 +6,8 @@ import sys
 from datetime import datetime, timedelta
 
 # ================= 配置区 =================
-USERNAME = "24413040149"
-PASSWORD = "24413040149"  # 请确保密码正确
+USERNAME = "你的学号"
+PASSWORD = "你的密码"  # 请确保密码正确
 TARGET_KM = 2.90        # 目标里程 (km)
 TARGET_SPEED = 2.5     # 目标速度 (m/s)，建议 1.5 - 5.5
 # 请务必保留或更新你抓包到的完整 deviceid
