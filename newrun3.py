@@ -18,7 +18,7 @@ BASE_URL = "https://ledong.hnfnu.edu.cn/backend"
 HEADERS = {
     "Host": "ledong.hnfnu.edu.cn",
     "xweb_xhr": "1",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 14; 2211133C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.0.0 Mobile Safari/537.36 MicroMessenger/8.0.48.2580",
     "Content-Type": "application/json",
     "Referer": "https://servicewechat.com/wx7caac81721cd7ef6/33/page-frame.html"
 }
