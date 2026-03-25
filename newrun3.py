@@ -11,7 +11,7 @@ PASSWORD = "你的密码"  # 请确保密码正确
 TARGET_KM = 2.90        # 目标里程 (km)
 TARGET_SPEED = 2.5     # 目标速度 (m/s)，建议 1.5 - 5.5
 # 请务必保留或更新你抓包到的完整 deviceid
-DEVICE_ID = '{"deviceBrand":"microsoft","deviceId":"17743449642521685505","deviceType":"phone","system":"Windows 11 x64"}'
+DEVICE_ID = '{"deviceBrand":"xiaomi","deviceId":"17743449642521685505","deviceType":"phone","system":"Android 14"}'
 # =========================================
 
 BASE_URL = "https://ledong.hnfnu.edu.cn/backend"
